@@ -21,10 +21,10 @@ body {
 
 /* Style the header */
 header {
-  background-image: linear-gradient(to right, skyblue, white);
+  background-image: linear-gradient(white, skyblue);
   padding: 30px;
   text-align: center;
-  font-size: 20px;
+  font-size: 35px;
   color: grey;
 }
 
