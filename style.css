@@ -66,7 +66,7 @@ article {
 
 /* Style the footer */
 footer {
-  background-image: linear-gradient(to right, skyblue, white);
+  background-image: linear-gradient(skyblue, white);
   padding: 10px;
   text-align: center;
   color: grey;
